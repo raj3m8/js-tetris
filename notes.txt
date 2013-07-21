@@ -1,0 +1,4 @@
+Get cells that will be switched too
+Check to see if they are all black spaces
+If they are all black spaces fill those with the color
+Make old cells that aren't being used black again
